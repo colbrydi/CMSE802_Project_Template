@@ -21,7 +21,7 @@ help:
 init:
 	conda env create --prefix ./envs --file environment.yml
 
-doc:
+docs:
 	pdoc3 --force --html --output-dir ./docs $(MODULENAME)
 
 lint:
