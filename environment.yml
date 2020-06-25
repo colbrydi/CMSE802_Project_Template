@@ -1,0 +1,11 @@
+name: /Users/colbrydi/REPOS/CMSE802_Project_Template/envs
+channels:
+  - defaults
+dependencies:
+  - pdoc3
+  - pip
+  - pytest
+  - pydocstyle
+  - pylint
+prefix: /Users/colbrydi/REPOS/CMSE802_Project_Template/envs
+
